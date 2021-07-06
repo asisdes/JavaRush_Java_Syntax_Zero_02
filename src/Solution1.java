@@ -28,5 +28,6 @@ public class Solution1 {
         //Вот мой комментарий
         //Вот мой комментарий
         //
+        System.out.println("Hello Wordl");
     }
 }
