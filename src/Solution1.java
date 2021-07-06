@@ -21,13 +21,7 @@ public class Solution1 {
             }
             System.out.println();
         }
-        //Вот мой комментарий
-        //Вот мой комментарий
-        //Вот мой комментарий
-        //Вот мой комментарий
-        //Вот мой комментарий
-        //Вот мой комментарий
-        //
-        System.out.println("Hello Wordl");
+
+        System.out.println("Hello World");
     }
 }
